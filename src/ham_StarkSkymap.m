@@ -1,0 +1,1 @@
+hamStark = hamiltonian(adjacency(Gsol),1,1);
